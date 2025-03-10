@@ -2,7 +2,7 @@
 
 Team ID : PNT2025TMID01814
 Team Size : 4
-Team Leader : Sarbazkhan Malek
-Team member : Jyoti Gogala
-Team member : Sanjay Chaudhari
-Team member : Zahid Mahesaniya
+Team Leader : Sarbazkhan Malek \n
+Team member : Jyoti Gogala \n
+Team member : Sanjay Chaudhari \n
+Team member : Zahid Mahesaniya \n
